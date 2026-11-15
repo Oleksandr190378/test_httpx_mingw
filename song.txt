@@ -1,3 +1,7 @@
 First line of the song
 Second line of the song
+
 Main branch note in song.txt
+
+Chorus line in storm branch
+
